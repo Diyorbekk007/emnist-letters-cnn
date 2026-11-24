@@ -1,0 +1,10 @@
+{
+  "params": 180282,
+  "train_minutes": 4.8,
+  "device": "GPU",
+  "duplicates": 2,
+  "epochs": 20,
+  "lr": 0.001,
+  "dropout": 0.5,
+  "dense_units": 256
+}

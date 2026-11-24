@@ -1,0 +1,6 @@
+,Test
+Accuracy,0.9356
+Precision (macro),0.689
+Recall (macro),0.6848
+F1-score (macro),0.6868
+Test loss,0.1823
